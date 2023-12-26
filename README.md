@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy @Vimapo23
 
-¡Bienvenido a mi rincón en GitHub! Soy apasionado por la Ciencia de Datos y la Ciberseguridad. Actualmente, me encuentro inmerso en el fascinante mundo de la Ciencia de Datos, aprendiendo y explorando nuevas técnicas y herramientas para analizar datos y obtener conocimientos significativos.
+¡Bienvenido a mi rincón en GitHub! Soy apasionado por la Ciencia de Datos y la Ciberseguridad. Actualmente, me encuentro inmerso en el fascinante mundo de la Ciencia de Datos, aprendiendo y explorando nuevas técnicas y herramientas para analizar datos y obtener más conocimiento cada día. Actualmente curso 2º año de Ciencia de Datos por la Universidad Politécnica de Valéncia.
 
 ## 🌱 Actualmente estoy aprendiendo
 
