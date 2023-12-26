@@ -15,7 +15,7 @@ Este camino de aprendizaje es emocionante, ¡y estoy emocionado por las oportuni
 
 ## 💞️ Busco colaborar en
 
-Estoy interesado en colaborar en proyectos relacionados con Ciencia de Datos y Ciberseguridad. Si tienes un proyecto emocionante en mente o buscas un compañero para trabajar en algo nuevo, ¡me encantaría contribuir! Mis habilidades actuales incluyen [menciona algunas habilidades clave, por ejemplo, Python, SQL, etc.].
+Estoy interesado en colaborar en proyectos relacionados con Ciencia de Datos y Ciberseguridad. Si tienes un proyecto emocionante en mente o buscas un compañero para trabajar en algo nuevo, ¡me encantaría contribuir! Mis habilidades actuales incluyen el conocimiento de algunos de los lenguajes más usados hoy en día como es Python y SQL, todos ellos enfocados al tratamiento y visualización de datos.
 
 ## 📫 Cómo contactarme
 
